@@ -1,0 +1,27 @@
+{
+  "name": "coterminous-js-examples",
+  "version": "0.2.0",
+  "description": "Examples for how to use coterminous-js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-webserver": "^0.9.1",
+    "run-sequence": "^1.2.2",
+    "webpack": "^2.0.7-beta"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobes31415/coterminous-js-examples"
+  },
+  "scripts": {
+    "start": "gulp start"
+  },
+  "keywords": [
+    "webpack",
+    "es6",
+    "rpc"
+  ],
+  "author": "Jake Tober <jake@macadamian.com>",
+  "license": "MIT"
+}
